@@ -1,0 +1,15 @@
+body {
+  min-width: 900px;
+}
+.before {
+  float: left;
+  width: 300px;
+}
+.after {
+  float: left;
+  width: 300px;
+}
+.during {
+  float: left;
+  width: 300px;
+}
