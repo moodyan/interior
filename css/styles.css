@@ -4,12 +4,30 @@ body {
 .before {
   float: left;
   width: 300px;
+  border: 10px solid brown;
+  background-color: blanchedalmond;
+  margin-right: 10px;
+  padding: 10px;
+  text-align: center;
 }
-.after {
-  float: left;
-  width: 300px;
-}
+
+
 .during {
   float: left;
   width: 300px;
+  border: 10px solid brown;
+  background-color: rosybrown;
+  margin-right: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.after {
+  float: left;
+  width: 300px;
+  border: 10px solid brown;
+  background-color: honeydew;
+  margin-right: 10px;
+  padding: 10px;
+  text-align: center;
 }
